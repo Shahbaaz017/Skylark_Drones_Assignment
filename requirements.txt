@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+langchain
+langchain-google-genai
+langchain-experimental
+openai
+tabulate
